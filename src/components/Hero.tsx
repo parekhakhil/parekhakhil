@@ -132,7 +132,7 @@ const Hero = () => {
           {/* Content Column */}
           <div className="text-center lg:text-left order-2 lg:order-1 w-full max-w-2xl mx-auto lg:mx-0">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6">
-              Hi, I'm{" "}
+              Hi 👋, I'm{" "}
               <span className="text-secondary dark:text-wildflower-purple">
                 {portfolioData.name}
               </span>
